@@ -1,0 +1,44 @@
+[
+  {
+    "project": "Inpos",
+    "image": "assets/images/inpos.png",
+    "description": "INPOS is a billing app designed for businesses in the retail industry, including restaurants, hotels, and various other retail shops. It aims to simplify the billing process, making it easier for businesses to manage transactions efficiently across different types of establishments.",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.innerix.inpos",
+    "iosUrl": ""
+  },
+  {
+    "project": "EnteHope",
+    "image": "assets/images/hope.png",
+    "description": "Ente Hope is an e-commerce app when users can purchase products and stand a chance to win exciting prices. The app offers a seamless shopping experience with a variety of products and every purchase gives uses an opportunity to win special rewards.",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.draw.entehope",
+    "iosUrl": "https://apps.apple.com/in/app/ente-hope/id6593672835"
+  },
+  {
+    "project": "Shumoo",
+    "image": "assets/images/shumo.png",
+    "description": "Shumoo is an advanced ecommerce platform specializing in pharmaceuticals and cosmetics, serving customers in the UAE with a wide range of high-quality products in these categories.",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.alshumoo.ecom",
+    "iosUrl": "https://apps.apple.com/ae/app/shumoo/id6480279795"
+  },
+  {
+    "project": "VM Store",
+    "image": "assets/images/vm-store.jpg",
+    "description": "VM Store is an e-commerce platform designed to provide users with a seamless online shopping experience. This app offers a wide range of products across various categories, allowing users to browse and purchase products online, track orders, and manage their account information securely.",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.innerix.vmstore&hl=en-IN",
+    "iosUrl": ""
+  },
+  {
+    "project": "Lak Amana",
+    "image": "assets/images/lak-amana.jpg",
+    "description": "Lakamana is an e-commerce platform designed to provide a unique shopping experience for the Lakshadweep community. The app offers a wide range of products manufactured specifically for the Lakshadweep people, including traditional clothing, handicrafts, and local specialties.",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.innerix.lakamana&hl=en-IN",
+    "iosUrl": ""
+  },
+  {
+    "project": "Toys App",
+    "image": "assets/images/toys.png",
+    "description": "A mobile application designed for showcasing toy businesses and advertisements in malls. The app serves as a digital platform where toy stores can promote their products, display ads, and attract customers through engaging visuals and interactive content.",
+    "androidUrl": "https://drive.google.com/drive/folders/11mCmKZwncriKb9vDSqI9yF2ijrii1MVO",
+    "iosUrl": ""
+  }
+]
